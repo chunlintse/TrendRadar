@@ -1,4 +1,5 @@
 AI
+人工智能
 Chatgpt
 deepseek
 gemini
